@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-#### Welcome to my pet project
-
 Welcome to my pet project; this project is a full redesign and rewrite of the Transit system “Arc” built for the city of Edmonton. 
 Being an Edmontonian myself, I know firsthand how god-awful this system is (although it is a better alternative to no system). 
 I intend this redesign to be a fully-fledged system with functional card readers, a frontend (maybe an app if I'm feeling adventurous), 
